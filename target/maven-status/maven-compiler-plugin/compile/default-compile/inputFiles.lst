@@ -1,1 +1,6 @@
-/Users/ankitpatnaik/Projects/gossip/src/Main.java
+/Users/ankitpatnaik/Projects/gossip/src/main/java/com/patnaikankit/gossip/Endpoint.java
+/Users/ankitpatnaik/Projects/gossip/src/main/java/com/patnaikankit/gossip/GossipNode.java
+/Users/ankitpatnaik/Projects/gossip/src/main/java/com/patnaikankit/gossip/Heartbeat.java
+/Users/ankitpatnaik/Projects/gossip/src/main/java/com/patnaikankit/gossip/Main.java
+/Users/ankitpatnaik/Projects/gossip/src/main/java/com/patnaikankit/gossip/PeerInfo.java
+/Users/ankitpatnaik/Projects/gossip/src/main/java/com/patnaikankit/gossip/PeerState.java

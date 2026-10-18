@@ -1,6 +1,6 @@
-Peer.class
-Main.class
-Constants.class
-HeartBeat.class
-GossipNode$HostPort.class
-GossipNode.class
+com/patnaikankit/gossip/Endpoint.class
+com/patnaikankit/gossip/PeerState.class
+com/patnaikankit/gossip/PeerInfo.class
+com/patnaikankit/gossip/GossipNode.class
+com/patnaikankit/gossip/Heartbeat.class
+com/patnaikankit/gossip/Main.class

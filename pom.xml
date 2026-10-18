@@ -26,7 +26,6 @@
     </dependencies>
 
     <build>
-        <sourceDirectory>src</sourceDirectory>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
@@ -38,7 +37,7 @@
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>3.6.3</version>
                 <configuration>
-                    <mainClass>Main</mainClass>
+                    <mainClass>com.patnaikankit.gossip.Main</mainClass>
                 </configuration>
             </plugin>
         </plugins>
